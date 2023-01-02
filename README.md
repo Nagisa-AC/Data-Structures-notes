@@ -8,7 +8,7 @@ Data Structures I go over:
 
 - [✔️] Linked List
   - [✔️] Doubly Linked List
-  - [✔️] Circular Linked List[✔️]
+  - [✔️] Circular Linked List
 - [✔️] Stacks
 - [✔️] Queues
 - [ ] Priority Queues
