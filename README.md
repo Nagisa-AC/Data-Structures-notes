@@ -1,7 +1,7 @@
 # Data-Structures-Algorithms-notes
 DSA notes
 
-Much of the code from my Data Structures and Algorithms learning. 
+Much of the code from my Data Structures and Algorithms course. 
 
 
 **Data Structures I go over:**
