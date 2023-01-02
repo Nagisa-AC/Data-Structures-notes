@@ -4,7 +4,7 @@ DSA notes
 Much of the code from my Data Structures and Algorithms learning. 
 
 
-Data Structures I go over:
+**Data Structures I go over:**
 
 - [✔️] Linked List
   - [✔️] Doubly Linked List
@@ -22,7 +22,7 @@ Data Structures I go over:
 - [ ] Graphs
 - [ ] Minimum Spanning Trees
 
-Algorithms I go over:
+**Algorithms I go over:**
 
 - [ ] Searching
 - [ ] Sorting 
